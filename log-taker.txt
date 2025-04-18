@@ -3576,3 +3576,15 @@
 4/17/2025 | 8:10:22 PM | INFO | Trying to activate mining on-chain for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
 4/17/2025 | 8:10:23 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:10:23 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 12:44:03 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 12:44:03 AM | INFO | Start process for wallet 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/18/2025 | 12:44:04 AM | INFO | Trying To Login for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/18/2025 | 12:44:05 AM | INFO | Login successful... 
+4/18/2025 | 12:44:05 AM | INFO | Trying to check user info... 
+4/18/2025 | 12:44:05 AM | INFO | User ID: 103413060 | Twitter: @zrisdaa | Total Points: 1320000 
+4/18/2025 | 12:44:05 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 12:44:06 AM | INFO | Last mining time: 4/16/2025, 4:12:36 PM
+4/18/2025 | 12:44:06 AM | INFO | Trying to start Mining for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/18/2025 | 12:44:07 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/18/2025 | 12:44:07 AM | INFO | Trying to activate mining on-chain for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/18/2025 | 12:44:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xe65f6a027ec7a5810b691a7dc8afae61ec71bdded0cf5fe9b3dc367acd700599 
