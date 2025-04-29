@@ -4217,3 +4217,15 @@
 4/29/2025 | 12:45:40 AM | INFO | Trying to activate mining on-chain for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
 4/29/2025 | 12:45:44 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204654780831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a021de869c62290206307f5fb6d632f46e27c60a81f9f4c4c4f5c0d18639c128c9a004e757c2a11986da6728903afe72d38a694b6757bc501484b0be411e16f96677"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 4/29/2025 | 12:45:44 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/29/2025 | 4:11:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/29/2025 | 4:11:27 AM | INFO | Start process for wallet 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/29/2025 | 4:11:27 AM | INFO | Trying To Login for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/29/2025 | 4:11:28 AM | INFO | Login successful... 
+4/29/2025 | 4:11:28 AM | INFO | Trying to check user info... 
+4/29/2025 | 4:11:28 AM | INFO | User ID: 103413060 | Twitter: @zrisdaa | Total Points: 1584000 
+4/29/2025 | 4:11:28 AM | INFO | Trying to check user miner status... 
+4/29/2025 | 4:11:29 AM | INFO | Last mining time: 4/27/2025, 8:09:42 PM
+4/29/2025 | 4:11:29 AM | INFO | Trying to start Mining for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/29/2025 | 4:11:30 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/29/2025 | 4:11:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+4/29/2025 | 4:11:40 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2250eec18c3acac395fd0f278c25062a7f4026df549160b8db65fa997ee8b17a 
