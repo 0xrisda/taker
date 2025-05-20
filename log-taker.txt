@@ -5459,3 +5459,12 @@
 5/20/2025 | 4:11:56 PM | INFO | Trying to activate mining on-chain for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
 5/20/2025 | 4:11:58 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x01f394e53d79D1C77CD104a0FB07da069aB2934C"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5b","from":"0x01f394e53d79d1c77cd104a0fb07da069ab2934c","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 4:11:58 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 8:11:04 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:11:04 PM | INFO | Start process for wallet 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+5/20/2025 | 8:11:05 PM | INFO | Trying To Login for wallet: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C 
+5/20/2025 | 8:11:06 PM | INFO | Login successful... 
+5/20/2025 | 8:11:06 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:11:06 PM | INFO | User ID: 103413060 | Twitter: @zrisdaa | Total Points: 2016000 
+5/20/2025 | 8:11:06 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:11:07 PM | INFO | Last mining time: 5/20/2025, 12:19:00 PM
+5/20/2025 | 8:11:07 PM | WARN | Mining already started, next mining time is: 5/21/2025, 12:19:00 PM
